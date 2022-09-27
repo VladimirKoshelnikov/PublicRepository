@@ -1,1 +1,1 @@
-Я нахожусь в ветке Master и я тут главный
+I am from Master - Branch and I am The Main File
